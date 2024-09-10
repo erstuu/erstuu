@@ -1,6 +1,6 @@
 # Hi everyone!
 ### My name is **Restu Gede Purnama**.
-I'm a *Mobile Development Student at Bangkit Academy* 
+I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024* 
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
