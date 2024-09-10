@@ -21,7 +21,7 @@ I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024*
 </a>
 </p>
 
-### 🔍 You Can Find Me at 
+### You Can Find Me at 
 <p> 
   <a href="https://www.linkedin.com/in/restu-gede-purnama-aa9583277/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
