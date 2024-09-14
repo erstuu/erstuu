@@ -2,16 +2,16 @@
 ### My name is **Restu Gede Purnama**.
 I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024* 
 
-### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Javascript-white?logo=javascript"/> 
-  <img align="left" src="https://img.shields.io/badge/PHP-777BB4"/>  
-  <img align="left" src="https://img.shields.io/badge/React-20232A?style=logo=react&logoColor=white"/>  
-  <br><br>
+### Tech & Frameworks:
+<p>
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel-v8-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>. 
 
 ### Github Statistic
 <p align="left">
@@ -21,7 +21,7 @@ I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024*
 </a>
 </p>
 
-### You Can Find Me at 
+### Let's Connect! 
 <p> 
   <a href="https://www.linkedin.com/in/restu-gede-purnama-aa9583277/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
