@@ -11,13 +11,13 @@ I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024*
     <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" />
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/Laravel-v8-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</p>. 
+</p>
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/erstuu">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erstuu&layout=compact&langs_count=8&theme=buefy"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erstuu&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erstuu&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erstuu&show_icons=true&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
