@@ -8,8 +8,8 @@ I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024*
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/erstuu">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erstuu&layout=compact&langs_count=8"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erstuu&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erstuu&layout=compact&langs_count=8"/>
 </a>
 </p>
 
