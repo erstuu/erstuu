@@ -9,8 +9,9 @@ I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024 Cohort*
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> 
   <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Laravel-v8-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> 
-</p>
+  <img src="https://img.shields.io/badge/Laravel-v8-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-v4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+
 
 ### Github Statistic
 <p align="left">
