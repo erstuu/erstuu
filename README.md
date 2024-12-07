@@ -12,8 +12,8 @@ I'm a *Mobile Development Student at Bangkit Academy Batch 2 2024 Cohort*
   <br>
   <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Laravel-v8-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeIgniter-v4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-v8-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
 <p>
